@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "openenglish",
+    "captured_at": "2026-10-11T192001",
+    "source_url": "https://www.openenglish.com/",
+    "source_type": "Website",
+    "file": "openenglish-2026-10-11T192001.png",
+    "bytes": 326912,
+    "capture": "playwright-local"
+  }
+]
